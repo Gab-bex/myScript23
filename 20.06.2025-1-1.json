@@ -1,0 +1,25 @@
+{
+    "name": "Jason Wallace",
+    "age": 75,
+    "address": {
+        "street": "Flores Isle",
+        "city": "South Carolyn",
+        "state": "Tennessee",
+        "zip": "38916"
+    },
+    "contact": {
+        "phone": "693-735-0950x928",
+        "servicePhone": "800963647"
+    },
+    "birthday": "1950-07-06",
+    "ip": "124.187.20.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Level would song attack believe. Care politics Republican market bring space star. Bring much sit court.\nServe wrong trip technology allow event baby. Them eight week special.",
+        "bio": "Letter budget card bad think song.\nStuff nothing walk work poor management. Policy realize ever do can where person rather."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
