@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Smith",
+    "age": 72,
+    "address": {
+        "street": "Luis Summit",
+        "city": "Freemantown",
+        "state": "Georgia",
+        "zip": "71946"
+    },
+    "contact": {
+        "phone": "7392015232",
+        "servicePhone": "800531735"
+    },
+    "birthday": "1953-05-02",
+    "ip": "37.71.242.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee early so president. Question candidate put force so.\nExpert direction decision lay. Increase million couple compare.\nResearch moment soldier unit soon them message. Soon instead attorney.",
+        "bio": "Join late side Democrat bit your wear. Hair road suddenly recently especially believe. Tonight with window against. Only film yeah quality happen pull rich."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
