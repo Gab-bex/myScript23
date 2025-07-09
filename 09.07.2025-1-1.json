@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Harris",
+    "age": 20,
+    "address": {
+        "street": "Bryan Cliff",
+        "city": "North Ruth",
+        "state": "Oregon",
+        "zip": "26210"
+    },
+    "contact": {
+        "phone": "+1-867-648-3475",
+        "servicePhone": "800970314"
+    },
+    "birthday": "2005-15-02",
+    "ip": "26.191.59.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Political environment interesting road. Able leader entire stand establish.\nWife be charge maintain grow. Left become who scientist exactly send improve.",
+        "bio": "Physical finish left determine fight.\nHis since Republican gas throw. Control keep clearly practice. Positive dream politics trouble."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
