@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jones",
+    "age": 61,
+    "address": {
+        "street": "Roberts Lane",
+        "city": "Brayville",
+        "state": "Alabama",
+        "zip": "10655"
+    },
+    "contact": {
+        "phone": "(268)901-9066",
+        "servicePhone": "800220440"
+    },
+    "birthday": "1964-06-03",
+    "ip": "6.161.242.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic week by responsibility for discover. Financial firm movement tonight type. Effect dark security without draw. Information hospital western.",
+        "bio": "Woman Congress article yourself too. Maintain poor heavy say.\nTree cultural story key else show else.\nBehind development common science act. Night prevent miss his summer."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
