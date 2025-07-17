@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Adkins",
+    "age": 63,
+    "address": {
+        "street": "Carter Rue",
+        "city": "Moralesshire",
+        "state": "South Dakota",
+        "zip": "15873"
+    },
+    "contact": {
+        "phone": "001-587-215-7113",
+        "servicePhone": "800549097"
+    },
+    "birthday": "1962-18-07",
+    "ip": "192.189.66.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Class art them majority positive now result. Sport sound those forget.\nDecision point together enough white field old. Section cell environmental recently present difference.",
+        "bio": "Color something democratic four every simply. Blood situation per well talk team federal toward. Apply hotel reach manager short."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
