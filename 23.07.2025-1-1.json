@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Anderson",
+    "age": 7,
+    "address": {
+        "street": "Davis Curve",
+        "city": "North Alexiston",
+        "state": "Oregon",
+        "zip": "40569"
+    },
+    "contact": {
+        "phone": "550-372-8710x92344",
+        "servicePhone": "800495218"
+    },
+    "birthday": "2018-29-09",
+    "ip": "139.123.79.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye force debate study suggest off drop. Forward claim per quickly drug mind expert. Teacher mind fear.",
+        "bio": "Sister remember join lose cut student appear. Let reason person call really.\nApply situation guy hundred consider report really."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
