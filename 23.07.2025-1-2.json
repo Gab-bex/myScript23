@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Brown",
+    "age": 35,
+    "address": {
+        "street": "Aaron Burg",
+        "city": "Port Andreahaven",
+        "state": "Massachusetts",
+        "zip": "93210"
+    },
+    "contact": {
+        "phone": "595-675-3201",
+        "servicePhone": "800274419"
+    },
+    "birthday": "1990-22-08",
+    "ip": "51.19.200.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick staff smile cost benefit. Fear ready political. Theory available into threat home.\nOwn try ball traditional environment score go. Born professor world here picture shake character.",
+        "bio": "Position no author police ok. Baby beyond social mind report.\nTend table travel themselves body. Scientist manager certain. Itself choose establish unit sure reason book."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
