@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Scott",
+    "age": 99,
+    "address": {
+        "street": "Susan Rue",
+        "city": "Mckayshire",
+        "state": "North Dakota",
+        "zip": "61799"
+    },
+    "contact": {
+        "phone": "702-850-7802x70791",
+        "servicePhone": "800664142"
+    },
+    "birthday": "1926-19-06",
+    "ip": "94.182.226.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation room majority from property mission. West positive point program name. Table determine treatment popular.",
+        "bio": "Same apply my month east those say. Add soon effect them agree film. Everything service this sure."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
