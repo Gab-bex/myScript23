@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Davis",
+    "age": 17,
+    "address": {
+        "street": "Barry Road",
+        "city": "Port Tony",
+        "state": "Oregon",
+        "zip": "08222"
+    },
+    "contact": {
+        "phone": "7316768559",
+        "servicePhone": "800263273"
+    },
+    "birthday": "2008-05-11",
+    "ip": "107.134.139.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain investment send court. Marriage kind marriage so. Executive seem investment of. Improve glass society store.",
+        "bio": "Reach star meet like. Program tax field key piece.\nWant dream now audience fly. Leader lot well ready.\nEnd look not century material. Wish bed seem party seek out turn."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
