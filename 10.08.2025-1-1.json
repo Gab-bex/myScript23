@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Allison Miranda",
+    "age": 80,
+    "address": {
+        "street": "Waters Mission",
+        "city": "Colemanchester",
+        "state": "Indiana",
+        "zip": "21801"
+    },
+    "contact": {
+        "phone": "+1-986-213-5968x1209",
+        "servicePhone": "800660884"
+    },
+    "birthday": "1945-21-11",
+    "ip": "198.109.59.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Social poor necessary military. Great respond experience picture. Quality other nearly thought.\nProvide drop sport law want follow. Truth many why official. Least middle form born analysis.",
+        "bio": "None machine prevent cultural prevent. Feel which artist. Decade start within paper worker.\nLast concern finish instead."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
