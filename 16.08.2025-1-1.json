@@ -1,0 +1,25 @@
+{
+    "name": "Carol Carey",
+    "age": 12,
+    "address": {
+        "street": "Ward Crescent",
+        "city": "East Katie",
+        "state": "California",
+        "zip": "07271"
+    },
+    "contact": {
+        "phone": "001-290-628-0542",
+        "servicePhone": "800745305"
+    },
+    "birthday": "2013-10-08",
+    "ip": "60.175.142.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Common including true perform assume former culture girl. Continue wrong claim money practice.",
+        "bio": "Those according entire why heavy front. Choose itself shoulder east. Window goal paper property marriage operation."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
