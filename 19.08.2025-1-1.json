@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Edwards",
+    "age": 9,
+    "address": {
+        "street": "Sarah Plain",
+        "city": "Lake Joshuamouth",
+        "state": "Idaho",
+        "zip": "35483"
+    },
+    "contact": {
+        "phone": "396.358.7033x47913",
+        "servicePhone": "800458904"
+    },
+    "birthday": "2016-13-02",
+    "ip": "13.190.255.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Early PM once central fill toward. Between fish source surface increase might.\nArt media per usually. Carry might happy break.",
+        "bio": "Argue marriage total whether hospital people how. Language do reach radio establish together reduce. Senior popular company choose many."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
