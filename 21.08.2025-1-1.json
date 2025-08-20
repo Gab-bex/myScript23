@@ -1,0 +1,25 @@
+{
+    "name": "Grace Boyd",
+    "age": 32,
+    "address": {
+        "street": "Marcus Roads",
+        "city": "North Danielfurt",
+        "state": "Indiana",
+        "zip": "27266"
+    },
+    "contact": {
+        "phone": "(474)540-0486x09960",
+        "servicePhone": "800873539"
+    },
+    "birthday": "1993-09-11",
+    "ip": "148.51.171.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Over accept perform college what democratic wrong. Cut begin recent quite card above pattern such. Cultural power last white themselves good might.",
+        "bio": "Real pattern budget receive it. Then color against couple.\nEconomy per call better important environmental resource hard. Cut million conference."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
