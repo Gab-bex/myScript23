@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Long",
+    "age": 89,
+    "address": {
+        "street": "Kayla Crossroad",
+        "city": "Davidmouth",
+        "state": "Ohio",
+        "zip": "95753"
+    },
+    "contact": {
+        "phone": "950-496-5470",
+        "servicePhone": "800327341"
+    },
+    "birthday": "1936-19-03",
+    "ip": "171.250.202.62",
+    "foo": "bar",
+    "profile": {
+        "about": "In far good may. Effort my want military color. Everyone people watch experience production.\nStop western during cover green both I save. Must play protect certainly or project.",
+        "bio": "Population modern possible street word stock recognize. Wrong natural would task kitchen game. Rest laugh position."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
