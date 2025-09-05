@@ -1,0 +1,25 @@
+{
+    "name": "Erik May",
+    "age": 92,
+    "address": {
+        "street": "Abbott Isle",
+        "city": "Palmerton",
+        "state": "North Dakota",
+        "zip": "58893"
+    },
+    "contact": {
+        "phone": "+1-817-916-5612x751",
+        "servicePhone": "800365873"
+    },
+    "birthday": "1933-29-10",
+    "ip": "204.239.43.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Big my during month sure few. Edge east mother citizen.\nSmile environment myself manage general. However quite language.",
+        "bio": "Spend figure second thousand each purpose. Ago listen arrive final.\nCharacter political book thing. Next computer attention share their learn music.\nPage move season. When huge individual receive."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
