@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Stevens",
+    "age": 34,
+    "address": {
+        "street": "Kelley Flat",
+        "city": "South Scottview",
+        "state": "Iowa",
+        "zip": "38609"
+    },
+    "contact": {
+        "phone": "+1-785-608-7602",
+        "servicePhone": "800958162"
+    },
+    "birthday": "1991-11-06",
+    "ip": "84.63.218.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Good word live where road focus. Your child business though design week.\nFinally beautiful call west six. Use physical traditional.",
+        "bio": "Image pay according. Professional Democrat more. Owner impact next goal use.\nCommunity degree program Republican pattern yeah. Wear significant remain crime money."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
