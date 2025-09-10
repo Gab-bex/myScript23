@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Padilla",
+    "age": 17,
+    "address": {
+        "street": "Carter Hollow",
+        "city": "Chanborough",
+        "state": "South Dakota",
+        "zip": "35088"
+    },
+    "contact": {
+        "phone": "(495)734-0934",
+        "servicePhone": "800970247"
+    },
+    "birthday": "2008-01-11",
+    "ip": "88.67.99.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Question surface sign several include clearly to.\nAfter should and education stuff. During news professor try blue around court. Employee minute however sign ability.",
+        "bio": "Computer value sometimes may.\nBlue team live professional. Such deep same drive personal.\nHundred door protect throughout nation only keep class. Care candidate expert decision also event."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
