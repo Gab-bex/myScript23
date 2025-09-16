@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Grant",
+    "age": 72,
+    "address": {
+        "street": "Benjamin Courts",
+        "city": "Manningview",
+        "state": "New Mexico",
+        "zip": "96457"
+    },
+    "contact": {
+        "phone": "001-243-553-7592x68042",
+        "servicePhone": "800594169"
+    },
+    "birthday": "1953-22-11",
+    "ip": "123.158.222.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound large fire real. Career color message adult person kid within sing. Form continue opportunity experience reach. Travel next chance avoid from.",
+        "bio": "Ok animal little recently game. Bit look little upon situation though wait body. Go mean player meeting. Trade possible forget phone.\nHit operation training. Attack model loss wind knowledge."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
